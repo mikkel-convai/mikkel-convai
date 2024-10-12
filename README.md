@@ -42,4 +42,4 @@ Here are some of the languages, frameworks, and tools I work with:
 ![Mikkel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikkel-convai&show_icons=true&theme=tokyonight)
 
 ## ⚡ Fun fact:
-When I'm not coding, I'm either training gymnastics or exploring the latest in AI research!
+When I'm not coding, I'm probably doing crossfit!
