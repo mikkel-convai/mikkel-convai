@@ -41,5 +41,9 @@ Here are some of the languages, frameworks, and tools I work with:
 
 ![Mikkel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikkel-convai&show_icons=true&theme=tokyonight)
 
+### 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkel-convai&layout=compact&theme=tokyonight)
+
 ## ⚡ Fun fact:
 When I'm not coding, I'm probably doing crossfit!
