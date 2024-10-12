@@ -34,7 +34,7 @@ Here are some of the languages, frameworks, and tools I work with:
 - Streamlit data science
 
 ## 🌐 Find me online
-- LinkedIn: [Mikkel Skræddergaard Jørgensen](https://www.linkedin.com/in/mikkelskraeddergaard/)
+- LinkedIn: [Mikkel Skræddergaard](https://www.linkedin.com/in/mikkelskraeddergaard/)
 - Personal Website: [mikkel-convai.com](https://mikkel-convai.github.io/)
 
 ## 📊 GitHub Stats
