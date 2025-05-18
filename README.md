@@ -1,37 +1,40 @@
 <h1 align="center">Hi 👋, I'm Mikkel</h1>
-<h3 align="center">An AI and App craftsman</h3>
+<h3 align="center">An Android & Wear OS Developer</h3>
 
 Here's a bit about me:
 
-- 🔭 Currently working on: **AI-powered study agents and app development with Flutter**
-- 🌱 Learning: **LangChain, LangGraph, CI/CD, and more advanced AI workflows**
-- 👯 Looking to collaborate on: **Health tech, educational tech, and environmental tech projects**
-- 💼 Open to: **Full-stack, AI, and software engineering opportunities**
-- 🧠 Always curious about: **New advancements in AI, education, healthcare tech, gamification, and environmental sustainability**
+- 🔭 Currently building: **A standalone emergency alarm and health-monitoring app for Wear OS**, featuring caregiver alerts, emergency calling, and full phone-watch communication using Jetpack libraries
+- 🌱 Learning more about: **Advanced Jetpack Compose, performance optimization for Wear OS, and robust state/data management**
+- 👯 Looking to collaborate on: **Health tech, educational tools, and impactful mobile-first projects**
+- 💼 Open to: **Android, Wear OS, and mobile development roles**
+- 🧠 Previously worked with: **AI agents, LangChain, and vector databases — always interested in meaningful tech applications**
 
 ## 🛠️ Technologies & Tools
 Here are some of the languages, frameworks, and tools I work with:
 
 ### Programming Languages:
+- Kotlin & Java ☕ (Android & Wear OS)
 - Python 🐍
 - Dart (Flutter) 🎯
 - JavaScript 🌐
 
-### AI & Machine Learning:
+### Android & Wear OS:
+- Jetpack Compose & XML
+- MVVM architecture
+- Hilt for Dependency Injection
+- DataStore, Room, Retrofit
+- Data Layer API (Phone ↔ Watch messaging)
+- Firebase, local persistence
+
+### Previously in AI & ML:
 - TensorFlow
-- LangChain
+- LangChain & LangGraph
 - OpenAI APIs
-- Azure
+- Vector DBs: FAISS, Chroma, Pinecone
 
-### Databases & Backend:
-- Supabase
-- SQLite
-- Firebase
-- FAISS, Chroma & Pinecone (Vector Databases)
-
-### Frontend:
-- Flutter for apps
-- Streamlit data science
+### Frontend & Cross-platform:
+- Flutter (apps)
+- Streamlit (data tools)
 
 ## 🌐 Find me online
 - LinkedIn: [Mikkel Skræddergaard](https://www.linkedin.com/in/mikkelskraeddergaard/)
